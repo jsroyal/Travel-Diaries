@@ -6,5 +6,5 @@ This repository mainly contains all the documentation part of the project.
 
 
 ### Application part: 
-[TravelDiaries-frontend](https://github.com/iiitv/TravelDiaries-frontend)
+[TravelDiaries](https://github.com/iiitv/TravelDiaries-frontend)
 
